@@ -1,0 +1,12 @@
+Nome: Lígia
+RG: 30.294.034-6
+CPF: 203.043.094-03
+Estado Civil: Solteira
+Função: Vendedora
+Salario: 3000
+Nome: Fábio
+RG: 20.506.402-4
+CPF: 029.504.029-05
+Estado Civil: Casado
+Função: Gerente
+Salario: 9000

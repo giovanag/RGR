@@ -1,0 +1,6 @@
+Nome Fisico: Maria
+Nome Juridico: Maria Transportes
+CNPJ: 52568135
+Nome Fisico: João
+Nome Juridico: Padaria do João
+CNPJ: 89416515315
